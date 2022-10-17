@@ -16,7 +16,7 @@ use React\EventLoop\Loop;
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 
-const TOKEN = 'BotTokenHere';
+const TOKEN = 'BotTokenHere';// get token from https://discord.com/developers/.
 const GUILD_ID = '00000000000000000';
 const CHANNEL_ID = '000000000000000000';
 const START_WIN = "C:\~\start.cmd";
