@@ -1,0 +1,12 @@
+{
+    "name": "yui9/server-start-php",
+    "autoload": {
+        "psr-4": {
+            "Yui9\\ServerStartPhp\\": "src/"
+        }
+    },
+    "require": {
+        "team-reflex/discord-php": "^7.3",
+        "thedudeguy/rcon": "^1.0"
+    }
+}
